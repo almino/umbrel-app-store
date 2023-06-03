@@ -16,5 +16,5 @@ services:
       - ${APP_DATA_DIR}/data/config:/config
       - ${UMBREL_ROOT}/data/storage:/storage
     ports:
-      - "5800:5800"
+      - 5800:5800
     restart: on-failure
