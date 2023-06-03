@@ -1,0 +1,31 @@
+manifestVersion: 1
+id: almino-dupe-guru
+name: dupeGuru
+tagline: dupeGuru is a tool to find duplicate files in a system
+icon: https://dupeguru.voltaicideas.net/safari-pinned-tab.svg
+category: Files
+version: "23.04.1"
+port: 5800
+description: >-
+  dupeGuru is a tool to find duplicate files on your computer.
+  It can scan either filenames or contents. The filename scan 
+  features a fuzzy matching algorithm that can find duplicate 
+  filenames even when they are not exactly the same. dupeGuru 
+  runs on Mac OS X and Linux.
+
+developer: Andrew Senetar
+website: https://dupeguru.voltaicideas.net/
+submitter: Almino
+submission: https://github.com/almino/umbrel-dupeguru
+repo: https://github.com/almino/umbrel-dupeguru
+support: https://github.com/almino/umbrel-dupeguru/issues
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  Updated TigerVNC to version 1.13.1
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
